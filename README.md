@@ -1,6 +1,10 @@
 # DetectorDeEmocoes
 Utilizando a rede neural yolov4 para detectar expressões faciais
 
+
+![resultado](https://user-images.githubusercontent.com/103445424/203555838-9ac037fb-e814-46fc-ba5c-a28855eb7763.jpg)
+
+
 As Big Techs como o Google e o Facebook tem acesso à camera do usuário, isso permite que elas rodem algoritmos de expressões faciais para saber se o usuário está feliz, triste ou curioso e ter um retorno sobre quais são as publicações mais efetivas para este usuário.
 
 Este modelo pretende ser uma reconstrução simplificada desses algoritmos de expressões faciais. Foram utilizadas duas classes, triste e feliz. Fiz um banco de dados com as duas classes que se encontram neste repositório com o nome de obj.zip
